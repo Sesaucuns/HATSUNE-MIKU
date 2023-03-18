@@ -65,7 +65,7 @@ termux-setup-storage
 ```
 
 ```bash
-git clone https://github.com/OFC-YOVANI/HATSUNE-MIKU.git
+git clone https://github.com/Sesaucuns/HATSUNE-MIKU
 ```
 
 ```bash
